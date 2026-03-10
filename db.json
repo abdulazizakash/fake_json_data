@@ -12,8 +12,7 @@
   "profile": {
     "name": "typicode"
   },
-
-  "product": [
+  "products": [
   {
     "id": 1,
     "title": "Nike Air Force 1",
@@ -25,7 +24,8 @@
       "rate": 4.7,
       "count": 423
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 85
   },
   {
     "id": 2,
@@ -38,7 +38,8 @@
       "rate": 4.2,
       "count": 113
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 120
   },
   {
     "id": 3,
@@ -51,7 +52,8 @@
       "rate": 5.0,
       "count": 243
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 65
   },
   {
     "id": 4,
@@ -64,7 +66,8 @@
       "rate": 3.6,
       "count": 200
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 95
   },
   {
     "id": 5,
@@ -77,7 +80,8 @@
       "rate": 4.7,
       "count": 366
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 110
   },
   {
     "id": 6,
@@ -90,7 +94,8 @@
       "rate": 4.8,
       "count": 235
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 75
   },
   {
     "id": 7,
@@ -103,7 +108,8 @@
       "rate": 4.4,
       "count": 410
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 140
   },
   {
     "id": 8,
@@ -116,7 +122,8 @@
       "rate": 3.6,
       "count": 388
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 50
   },
   {
     "id": 9,
@@ -129,7 +136,8 @@
       "rate": 3.8,
       "count": 198
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 130
   },
   {
     "id": 10,
@@ -142,7 +150,8 @@
       "rate": 5.0,
       "count": 487
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 60
   },
   {
     "id": 11,
@@ -155,7 +164,8 @@
       "rate": 3.8,
       "count": 101
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 45
   },
   {
     "id": 12,
@@ -168,7 +178,8 @@
       "rate": 4.1,
       "count": 282
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 80
   },
   {
     "id": 13,
@@ -181,7 +192,8 @@
       "rate": 4.5,
       "count": 236
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 100
   },
   {
     "id": 14,
@@ -194,7 +206,8 @@
       "rate": 3.7,
       "count": 231
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 55
   },
   {
     "id": 15,
@@ -207,7 +220,8 @@
       "rate": 3.8,
       "count": 186
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 90
   },
   {
     "id": 16,
@@ -220,7 +234,8 @@
       "rate": 4.6,
       "count": 399
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 70
   },
   {
     "id": 17,
@@ -233,7 +248,8 @@
       "rate": 4.5,
       "count": 361
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 115
   },
   {
     "id": 18,
@@ -246,7 +262,8 @@
       "rate": 4.5,
       "count": 323
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 35
   },
   {
     "id": 19,
@@ -259,7 +276,8 @@
       "rate": 4.6,
       "count": 133
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 125
   },
   {
     "id": 20,
@@ -272,7 +290,8 @@
       "rate": 4.2,
       "count": 188
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 105
   },
   {
     "id": 21,
@@ -285,7 +304,8 @@
       "rate": 4.6,
       "count": 512
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 60
   },
   {
     "id": 22,
@@ -298,7 +318,8 @@
       "rate": 4.8,
       "count": 289
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 90
   },
   {
     "id": 23,
@@ -311,7 +332,8 @@
       "rate": 4.3,
       "count": 176
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 40
   },
   {
     "id": 24,
@@ -324,7 +346,8 @@
       "rate": 4.9,
       "count": 341
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 110
   },
   {
     "id": 25,
@@ -337,7 +360,8 @@
       "rate": 4.1,
       "count": 204
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 75
   },
   {
     "id": 26,
@@ -350,7 +374,8 @@
       "rate": 3.9,
       "count": 157
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 55
   },
   {
     "id": 27,
@@ -363,7 +388,8 @@
       "rate": 4.7,
       "count": 398
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 85
   },
   {
     "id": 28,
@@ -376,7 +402,8 @@
       "rate": 4.4,
       "count": 267
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 70
   },
   {
     "id": 29,
@@ -389,7 +416,8 @@
       "rate": 4.5,
       "count": 312
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 95
   },
   {
     "id": 30,
@@ -402,7 +430,8 @@
       "rate": 4.2,
       "count": 445
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 50
   },
   {
     "id": 31,
@@ -415,7 +444,8 @@
       "rate": 4.5,
       "count": 278
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 120
   },
   {
     "id": 32,
@@ -428,7 +458,8 @@
       "rate": 4.3,
       "count": 195
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 80
   },
   {
     "id": 33,
@@ -441,7 +472,8 @@
       "rate": 4.8,
       "count": 367
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 100
   },
   {
     "id": 34,
@@ -454,7 +486,8 @@
       "rate": 4.6,
       "count": 142
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 65
   },
   {
     "id": 35,
@@ -467,7 +500,8 @@
       "rate": 4.1,
       "count": 289
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 90
   },
   {
     "id": 36,
@@ -480,7 +514,8 @@
       "rate": 4.7,
       "count": 221
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 110
   },
   {
     "id": 37,
@@ -493,7 +528,8 @@
       "rate": 4.4,
       "count": 156
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 75
   },
   {
     "id": 38,
@@ -506,7 +542,8 @@
       "rate": 3.9,
       "count": 334
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 95
   },
   {
     "id": 39,
@@ -519,7 +556,8 @@
       "rate": 4.2,
       "count": 412
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 55
   },
   {
     "id": 40,
@@ -532,7 +570,8 @@
       "rate": 4.5,
       "count": 187
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 85
   },
   {
     "id": 41,
@@ -545,7 +584,8 @@
       "rate": 3.9,
       "count": 130
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 150
   },
   {
     "id": 42,
@@ -558,7 +598,8 @@
       "rate": 4.2,
       "count": 419
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 200
   },
   {
     "id": 43,
@@ -571,7 +612,8 @@
       "rate": 4.8,
       "count": 184
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 180
   },
   {
     "id": 44,
@@ -584,7 +626,8 @@
       "rate": 5.0,
       "count": 440
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 160
   },
   {
     "id": 45,
@@ -597,7 +640,8 @@
       "rate": 3.8,
       "count": 104
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 170
   },
   {
     "id": 46,
@@ -610,7 +654,8 @@
       "rate": 4.8,
       "count": 202
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 140
   },
   {
     "id": 47,
@@ -623,7 +668,8 @@
       "rate": 4.8,
       "count": 309
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 190
   },
   {
     "id": 48,
@@ -636,7 +682,8 @@
       "rate": 4.4,
       "count": 128
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 130
   },
   {
     "id": 49,
@@ -649,7 +696,8 @@
       "rate": 4.1,
       "count": 132
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 210
   },
   {
     "id": 50,
@@ -662,7 +710,8 @@
       "rate": 4.3,
       "count": 448
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 155
   },
   {
     "id": 51,
@@ -675,7 +724,8 @@
       "rate": 4.4,
       "count": 256
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 70
   },
   {
     "id": 52,
@@ -688,7 +738,8 @@
       "rate": 4.6,
       "count": 173
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 95
   },
   {
     "id": 53,
@@ -701,7 +752,8 @@
       "rate": 3.7,
       "count": 309
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 50
   },
   {
     "id": 54,
@@ -714,7 +766,8 @@
       "rate": 4.9,
       "count": 198
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 85
   },
   {
     "id": 55,
@@ -727,7 +780,8 @@
       "rate": 4.2,
       "count": 267
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 110
   },
   {
     "id": 56,
@@ -740,7 +794,8 @@
       "rate": 4.5,
       "count": 145
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 60
   },
   {
     "id": 57,
@@ -753,7 +808,8 @@
       "rate": 4.3,
       "count": 378
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 120
   },
   {
     "id": 58,
@@ -766,7 +822,8 @@
       "rate": 3.8,
       "count": 221
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 45
   },
   {
     "id": 59,
@@ -779,7 +836,8 @@
       "rate": 4.1,
       "count": 312
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 100
   },
   {
     "id": 60,
@@ -792,7 +850,8 @@
       "rate": 4.7,
       "count": 189
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 80
   },
   {
     "id": 61,
@@ -805,7 +864,8 @@
       "rate": 4.8,
       "count": 456
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 40
   },
   {
     "id": 62,
@@ -818,7 +878,8 @@
       "rate": 4.5,
       "count": 203
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 65
   },
   {
     "id": 63,
@@ -831,7 +892,8 @@
       "rate": 4.9,
       "count": 312
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 55
   },
   {
     "id": 64,
@@ -844,7 +906,8 @@
       "rate": 4.3,
       "count": 278
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 75
   },
   {
     "id": 65,
@@ -857,7 +920,8 @@
       "rate": 4.6,
       "count": 167
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 30
   },
   {
     "id": 66,
@@ -870,7 +934,8 @@
       "rate": 4.2,
       "count": 398
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 50
   },
   {
     "id": 67,
@@ -883,7 +948,8 @@
       "rate": 4.7,
       "count": 234
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 45
   },
   {
     "id": 68,
@@ -896,7 +962,8 @@
       "rate": 4.4,
       "count": 189
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 60
   },
   {
     "id": 69,
@@ -909,7 +976,8 @@
       "rate": 4.1,
       "count": 321
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 70
   },
   {
     "id": 70,
@@ -922,7 +990,8 @@
       "rate": 4.8,
       "count": 276
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 35
   },
   {
     "id": 71,
@@ -935,7 +1004,8 @@
       "rate": 4.3,
       "count": 198
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 90
   },
   {
     "id": 72,
@@ -948,7 +1018,8 @@
       "rate": 4.7,
       "count": 312
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 110
   },
   {
     "id": 73,
@@ -961,7 +1032,8 @@
       "rate": 4.5,
       "count": 267
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 80
   },
   {
     "id": 74,
@@ -974,7 +1046,8 @@
       "rate": 4.8,
       "count": 145
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 100
   },
   {
     "id": 75,
@@ -987,7 +1060,8 @@
       "rate": 4.2,
       "count": 389
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 70
   },
   {
     "id": 76,
@@ -1000,7 +1074,8 @@
       "rate": 4.6,
       "count": 221
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 95
   },
   {
     "id": 77,
@@ -1013,7 +1088,8 @@
       "rate": 4.4,
       "count": 176
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 85
   },
   {
     "id": 78,
@@ -1026,7 +1102,8 @@
       "rate": 3.9,
       "count": 298
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 105
   },
   {
     "id": 79,
@@ -1039,7 +1116,8 @@
       "rate": 4.1,
       "count": 234
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 75
   },
   {
     "id": 80,
@@ -1052,7 +1130,8 @@
       "rate": 4.5,
       "count": 167
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 115
   },
   {
     "id": 81,
@@ -1065,7 +1144,8 @@
       "rate": 4.6,
       "count": 389
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 130
   },
   {
     "id": 82,
@@ -1078,7 +1158,8 @@
       "rate": 4.3,
       "count": 234
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 160
   },
   {
     "id": 83,
@@ -1091,7 +1172,8 @@
       "rate": 4.8,
       "count": 312
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 120
   },
   {
     "id": 84,
@@ -1104,7 +1186,8 @@
       "rate": 4.7,
       "count": 176
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 140
   },
   {
     "id": 85,
@@ -1117,7 +1200,8 @@
       "rate": 4.2,
       "count": 289
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 150
   },
   {
     "id": 86,
@@ -1130,7 +1214,8 @@
       "rate": 4.5,
       "count": 198
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 110
   },
   {
     "id": 87,
@@ -1143,7 +1228,8 @@
       "rate": 4.4,
       "count": 267
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 170
   },
   {
     "id": 88,
@@ -1156,7 +1242,8 @@
       "rate": 3.9,
       "count": 145
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 125
   },
   {
     "id": 89,
@@ -1169,7 +1256,8 @@
       "rate": 4.1,
       "count": 378
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 155
   },
   {
     "id": 90,
@@ -1182,7 +1270,8 @@
       "rate": 4.6,
       "count": 221
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 135
   },
   {
     "id": 91,
@@ -1195,7 +1284,8 @@
       "rate": 4.7,
       "count": 287
     },
-    "color": "Black"
+    "color": "Black",
+    "quantity": 25
   },
   {
     "id": 92,
@@ -1208,7 +1298,8 @@
       "rate": 4.4,
       "count": 156
     },
-    "color": "White"
+    "color": "White",
+    "quantity": 45
   },
   {
     "id": 93,
@@ -1221,7 +1312,8 @@
       "rate": 4.9,
       "count": 334
     },
-    "color": "Red"
+    "color": "Red",
+    "quantity": 35
   },
   {
     "id": 94,
@@ -1234,7 +1326,8 @@
       "rate": 4.3,
       "count": 198
     },
-    "color": "Blue"
+    "color": "Blue",
+    "quantity": 55
   },
   {
     "id": 95,
@@ -1247,7 +1340,8 @@
       "rate": 4.6,
       "count": 245
     },
-    "color": "Silver"
+    "color": "Silver",
+    "quantity": 30
   },
   {
     "id": 96,
@@ -1260,7 +1354,8 @@
       "rate": 4.2,
       "count": 312
     },
-    "color": "Gold"
+    "color": "Gold",
+    "quantity": 40
   },
   {
     "id": 97,
@@ -1273,7 +1368,8 @@
       "rate": 4.8,
       "count": 189
     },
-    "color": "Green"
+    "color": "Green",
+    "quantity": 50
   },
   {
     "id": 98,
@@ -1286,7 +1382,8 @@
       "rate": 4.5,
       "count": 276
     },
-    "color": "Pink"
+    "color": "Pink",
+    "quantity": 20
   },
   {
     "id": 99,
@@ -1299,7 +1396,8 @@
       "rate": 4.1,
       "count": 167
     },
-    "color": "Gray"
+    "color": "Gray",
+    "quantity": 60
   },
   {
     "id": 100,
@@ -1312,7 +1410,8 @@
       "rate": 4.7,
       "count": 398
     },
-    "color": "Navy"
+    "color": "Navy",
+    "quantity": 38
   }
-  ]
+]
 }

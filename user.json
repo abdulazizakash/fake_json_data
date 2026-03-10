@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "email": "john.doe@gmail.com",
+    "username": "johndoe",
+    "password": "m38rmF$",
+    "name": {
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    "address": {
+      "city": "kilcoole",
+      "street": "new street",
+      "number": 7682,
+      "zipcode": "12926-3874",
+      "geolocation": {
+        "lat": "-37.3159",
+        "long": "81.1496"
+      }
+    },
+    "phone": "1-570-236-7033"
+  },
+  {
+    "id": 2,
+    "email": "mary.smith@yahoo.com",
+    "username": "marysmith",
+    "password": "83r5^_",
+    "name": {
+      "firstname": "Mary",
+      "lastname": "Smith"
+    },
+    "address": {
+      "city": "New York",
+      "street": "broadway ave",
+      "number": 456,
+      "zipcode": "10001",
+      "geolocation": {
+        "lat": "40.7128",
+        "long": "-74.0060"
+      }
+    },
+    "phone": "1-212-555-1234"
+  },
+  {
+    "id": 3,
+    "email": "robert.johnson@outlook.com",
+    "username": "robertj",
+    "password": "k9m2v7#",
+    "name": {
+      "firstname": "Robert",
+      "lastname": "Johnson"
+    },
+    "address": {
+      "city": "Los Angeles",
+      "street": "sunset blvd",
+      "number": 789,
+      "zipcode": "90001",
+      "geolocation": {
+        "lat": "34.0522",
+        "long": "-118.2437"
+      }
+    },
+    "phone": "1-310-555-5678"
+  },
+  {
+    "id": 4,
+    "email": "patricia.williams@hotmail.com",
+    "username": "patriciaw",
+    "password": "p@ssw0rd!",
+    "name": {
+      "firstname": "Patricia",
+      "lastname": "Williams"
+    },
+    "address": {
+      "city": "Chicago",
+      "street": "lake shore dr",
+      "number": 1011,
+      "zipcode": "60601",
+      "geolocation": {
+        "lat": "41.8781",
+        "long": "-87.6298"
+      }
+    },
+    "phone": "1-312-555-9012"
+  },
+  {
+    "id": 5,
+    "email": "michael.brown@protonmail.com",
+    "username": "michaelb",
+    "password": "brown2023$",
+    "name": {
+      "firstname": "Michael",
+      "lastname": "Brown"
+    },
+    "address": {
+      "city": "Houston",
+      "street": "main street",
+      "number": 2345,
+      "zipcode": "77001",
+      "geolocation": {
+        "lat": "29.7604",
+        "long": "-95.3698"
+      }
+    },
+    "phone": "1-713-555-3456"
+  },
+  {
+    "id": 6,
+    "email": "linda.jones@icloud.com",
+    "username": "lindaj",
+    "password": "jones#456",
+    "name": {
+      "firstname": "Linda",
+      "lastname": "Jones"
+    },
+    "address": {
+      "city": "Phoenix",
+      "street": "camelback rd",
+      "number": 6789,
+      "zipcode": "85001",
+      "geolocation": {
+        "lat": "33.4484",
+        "long": "-112.0740"
+      }
+    },
+    "phone": "1-602-555-7890"
+  },
+  {
+    "id": 7,
+    "email": "david.garcia@gmail.com",
+    "username": "davidg",
+    "password": "garcia_789",
+    "name": {
+      "firstname": "David",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Philadelphia",
+      "street": "market street",
+      "number": 1122,
+      "zipcode": "19101",
+      "geolocation": {
+        "lat": "39.9526",
+        "long": "-75.1652"
+      }
+    },
+    "phone": "1-215-555-2345"
+  },
+  {
+    "id": 8,
+    "email": "barbara.miller@yahoo.com",
+    "username": "barbaram",
+    "password": "miller@321",
+    "name": {
+      "firstname": "Barbara",
+      "lastname": "Miller"
+    },
+    "address": {
+      "city": "San Antonio",
+      "street": "alamo plaza",
+      "number": 3344,
+      "zipcode": "78201",
+      "geolocation": {
+        "lat": "29.4241",
+        "long": "-98.4936"
+      }
+    },
+    "phone": "1-210-555-6789"
+  },
+  {
+    "id": 9,
+    "email": "james.davis@outlook.com",
+    "username": "jamesd",
+    "password": "davis2024!",
+    "name": {
+      "firstname": "James",
+      "lastname": "Davis"
+    },
+    "address": {
+      "city": "San Diego",
+      "street": "pacific highway",
+      "number": 5566,
+      "zipcode": "92101",
+      "geolocation": {
+        "lat": "32.7157",
+        "long": "-117.1611"
+      }
+    },
+    "phone": "1-619-555-0123"
+  },
+  {
+    "id": 10,
+    "email": "elizabeth.rodriguez@hotmail.com",
+    "username": "elizabethr",
+    "password": "rodriguez99",
+    "name": {
+      "firstname": "Elizabeth",
+      "lastname": "Rodriguez"
+    },
+    "address": {
+      "city": "Dallas",
+      "street": "commerce street",
+      "number": 7788,
+      "zipcode": "75201",
+      "geolocation": {
+        "lat": "32.7767",
+        "long": "-96.7970"
+      }
+    },
+    "phone": "1-214-555-4567"
+  },
+  {
+    "id": 11,
+    "email": "william.martinez@protonmail.com",
+    "username": "williamm",
+    "password": "martinez88$",
+    "name": {
+      "firstname": "William",
+      "lastname": "Martinez"
+    },
+    "address": {
+      "city": "San Jose",
+      "street": "santa clara st",
+      "number": 9900,
+      "zipcode": "95101",
+      "geolocation": {
+        "lat": "37.3382",
+        "long": "-121.8863"
+      }
+    },
+    "phone": "1-408-555-8901"
+  },
+  {
+    "id": 12,
+    "email": "susan.hernandez@icloud.com",
+    "username": "susanh",
+    "password": "hernandez#55",
+    "name": {
+      "firstname": "Susan",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Austin",
+      "street": "congress ave",
+      "number": 1123,
+      "zipcode": "73301",
+      "geolocation": {
+        "lat": "30.2672",
+        "long": "-97.7431"
+      }
+    },
+    "phone": "1-512-555-2345"
+  },
+  {
+    "id": 13,
+    "email": "joseph.lopez@gmail.com",
+    "username": "josephl",
+    "password": "lopez2023",
+    "name": {
+      "firstname": "Joseph",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Jacksonville",
+      "street": "bay st",
+      "number": 4455,
+      "zipcode": "32099",
+      "geolocation": {
+        "lat": "30.3322",
+        "long": "-81.6557"
+      }
+    },
+    "phone": "1-904-555-6789"
+  },
+  {
+    "id": 14,
+    "email": "margaret.gonzalez@yahoo.com",
+    "username": "margaretg",
+    "password": "gonzalez!22",
+    "name": {
+      "firstname": "Margaret",
+      "lastname": "Gonzalez"
+    },
+    "address": {
+      "city": "Fort Worth",
+      "street": "main st",
+      "number": 6677,
+      "zipcode": "76101",
+      "geolocation": {
+        "lat": "32.7555",
+        "long": "-97.3308"
+      }
+    },
+    "phone": "1-817-555-0123"
+  },
+  {
+    "id": 15,
+    "email": "thomas.wilson@outlook.com",
+    "username": "thomasw",
+    "password": "wilson_99",
+    "name": {
+      "firstname": "Thomas",
+      "lastname": "Wilson"
+    },
+    "address": {
+      "city": "Columbus",
+      "street": "high st",
+      "number": 8899,
+      "zipcode": "43201",
+      "geolocation": {
+        "lat": "39.9612",
+        "long": "-82.9988"
+      }
+    },
+    "phone": "1-614-555-4567"
+  },
+  {
+    "id": 16,
+    "email": "dorothy.moore@hotmail.com",
+    "username": "dorothym",
+    "password": "moore2024$",
+    "name": {
+      "firstname": "Dorothy",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "San Francisco",
+      "street": "market st",
+      "number": 1011,
+      "zipcode": "94101",
+      "geolocation": {
+        "lat": "37.7749",
+        "long": "-122.4194"
+      }
+    },
+    "phone": "1-415-555-8901"
+  },
+  {
+    "id": 17,
+    "email": "charles.taylor@protonmail.com",
+    "username": "charlest",
+    "password": "taylor#77",
+    "name": {
+      "firstname": "Charles",
+      "lastname": "Taylor"
+    },
+    "address": {
+      "city": "Charlotte",
+      "street": "trade st",
+      "number": 2233,
+      "zipcode": "28201",
+      "geolocation": {
+        "lat": "35.2271",
+        "long": "-80.8431"
+      }
+    },
+    "phone": "1-704-555-2345"
+  },
+  {
+    "id": 18,
+    "email": "helen.anderson@icloud.com",
+    "username": "helena",
+    "password": "anderson88",
+    "name": {
+      "firstname": "Helen",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Indianapolis",
+      "street": "monument circle",
+      "number": 4455,
+      "zipcode": "46201",
+      "geolocation": {
+        "lat": "39.7684",
+        "long": "-86.1581"
+      }
+    },
+    "phone": "1-317-555-6789"
+  },
+  {
+    "id": 19,
+    "email": "daniel.thomas@gmail.com",
+    "username": "danielt",
+    "password": "thomas!66",
+    "name": {
+      "firstname": "Daniel",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Seattle",
+      "street": "pike st",
+      "number": 6677,
+      "zipcode": "98101",
+      "geolocation": {
+        "lat": "47.6062",
+        "long": "-122.3321"
+      }
+    },
+    "phone": "1-206-555-0123"
+  },
+  {
+    "id": 20,
+    "email": "nancy.jackson@yahoo.com",
+    "username": "nancyj",
+    "password": "jackson2023",
+    "name": {
+      "firstname": "Nancy",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Denver",
+      "street": "larimer st",
+      "number": 8899,
+      "zipcode": "80201",
+      "geolocation": {
+        "lat": "39.7392",
+        "long": "-104.9903"
+      }
+    },
+    "phone": "1-303-555-4567"
+  },
+  {
+    "id": 21,
+    "email": "paul.white@outlook.com",
+    "username": "paulw",
+    "password": "white#55",
+    "name": {
+      "firstname": "Paul",
+      "lastname": "White"
+    },
+    "address": {
+      "city": "Washington",
+      "street": "pennsylvania ave",
+      "number": 1600,
+      "zipcode": "20001",
+      "geolocation": {
+        "lat": "38.8951",
+        "long": "-77.0364"
+      }
+    },
+    "phone": "1-202-555-8901"
+  },
+  {
+    "id": 22,
+    "email": "karen.harris@hotmail.com",
+    "username": "karenh",
+    "password": "harris2024$",
+    "name": {
+      "firstname": "Karen",
+      "lastname": "Harris"
+    },
+    "address": {
+      "city": "Boston",
+      "street": "boylston st",
+      "number": 234,
+      "zipcode": "02101",
+      "geolocation": {
+        "lat": "42.3601",
+        "long": "-71.0589"
+      }
+    },
+    "phone": "1-617-555-2345"
+  },
+  {
+    "id": 23,
+    "email": "steven.martin@protonmail.com",
+    "username": "stevenm",
+    "password": "martin_44",
+    "name": {
+      "firstname": "Steven",
+      "lastname": "Martin"
+    },
+    "address": {
+      "city": "El Paso",
+      "street": "montana ave",
+      "number": 5566,
+      "zipcode": "79901",
+      "geolocation": {
+        "lat": "31.7619",
+        "long": "-106.4850"
+      }
+    },
+    "phone": "1-915-555-6789"
+  },
+  {
+    "id": 24,
+    "email": "betty.thompson@icloud.com",
+    "username": "bettyt",
+    "password": "thompson99",
+    "name": {
+      "firstname": "Betty",
+      "lastname": "Thompson"
+    },
+    "address": {
+      "city": "Nashville",
+      "street": "broadway",
+      "number": 7788,
+      "zipcode": "37201",
+      "geolocation": {
+        "lat": "36.1627",
+        "long": "-86.7816"
+      }
+    },
+    "phone": "1-615-555-0123"
+  },
+  {
+    "id": 25,
+    "email": "george.moore@gmail.com",
+    "username": "georgem",
+    "password": "moore!33",
+    "name": {
+      "firstname": "George",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Detroit",
+      "street": "woodward ave",
+      "number": 9900,
+      "zipcode": "48201",
+      "geolocation": {
+        "lat": "42.3314",
+        "long": "-83.0458"
+      }
+    },
+    "phone": "1-313-555-4567"
+  },
+  {
+    "id": 26,
+    "email": "helen.taylor@yahoo.com",
+    "username": "helent",
+    "password": "taylor2023",
+    "name": {
+      "firstname": "Helen",
+      "lastname": "Taylor"
+    },
+    "address": {
+      "city": "Oklahoma City",
+      "street": "bricktown",
+      "number": 1122,
+      "zipcode": "73101",
+      "geolocation": {
+        "lat": "35.4676",
+        "long": "-97.5164"
+      }
+    },
+    "phone": "1-405-555-8901"
+  },
+  {
+    "id": 27,
+    "email": "edward.anderson@outlook.com",
+    "username": "edwarda",
+    "password": "anderson#22",
+    "name": {
+      "firstname": "Edward",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Portland",
+      "street": "burnside st",
+      "number": 3344,
+      "zipcode": "97201",
+      "geolocation": {
+        "lat": "45.5051",
+        "long": "-122.6750"
+      }
+    },
+    "phone": "1-503-555-2345"
+  },
+  {
+    "id": 28,
+    "email": "sandra.thomas@hotmail.com",
+    "username": "sandrat",
+    "password": "thomas88$",
+    "name": {
+      "firstname": "Sandra",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Las Vegas",
+      "street": "fremont st",
+      "number": 5566,
+      "zipcode": "89101",
+      "geolocation": {
+        "lat": "36.1699",
+        "long": "-115.1398"
+      }
+    },
+    "phone": "1-702-555-6789"
+  },
+  {
+    "id": 29,
+    "email": "donald.jackson@protonmail.com",
+    "username": "donaldj",
+    "password": "jackson_77",
+    "name": {
+      "firstname": "Donald",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Memphis",
+      "street": "beale st",
+      "number": 7788,
+      "zipcode": "38101",
+      "geolocation": {
+        "lat": "35.1495",
+        "long": "-90.0490"
+      }
+    },
+    "phone": "1-901-555-0123"
+  },
+  {
+    "id": 30,
+    "email": "carol.white@icloud.com",
+    "username": "carolw",
+    "password": "white2024!",
+    "name": {
+      "firstname": "Carol",
+      "lastname": "White"
+    },
+    "address": {
+      "city": "Louisville",
+      "street": "main st",
+      "number": 9900,
+      "zipcode": "40201",
+      "geolocation": {
+        "lat": "38.2527",
+        "long": "-85.7585"
+      }
+    },
+    "phone": "1-502-555-4567"
+  },
+  {
+    "id": 31,
+    "email": "kenneth.harris@gmail.com",
+    "username": "kennethh",
+    "password": "harris#66",
+    "name": {
+      "firstname": "Kenneth",
+      "lastname": "Harris"
+    },
+    "address": {
+      "city": "Baltimore",
+      "street": "pratt st",
+      "number": 1123,
+      "zipcode": "21201",
+      "geolocation": {
+        "lat": "39.2904",
+        "long": "-76.6122"
+      }
+    },
+    "phone": "1-410-555-8901"
+  },
+  {
+    "id": 32,
+    "email": "ruth.martin@yahoo.com",
+    "username": "ruthm",
+    "password": "martin55",
+    "name": {
+      "firstname": "Ruth",
+      "lastname": "Martin"
+    },
+    "address": {
+      "city": "Milwaukee",
+      "street": "wisconsin ave",
+      "number": 4455,
+      "zipcode": "53201",
+      "geolocation": {
+        "lat": "43.0389",
+        "long": "-87.9065"
+      }
+    },
+    "phone": "1-414-555-2345"
+  },
+  {
+    "id": 33,
+    "email": "ronald.thompson@outlook.com",
+    "username": "ronaldt",
+    "password": "thompson2023",
+    "name": {
+      "firstname": "Ronald",
+      "lastname": "Thompson"
+    },
+    "address": {
+      "city": "Albuquerque",
+      "street": "central ave",
+      "number": 6677,
+      "zipcode": "87101",
+      "geolocation": {
+        "lat": "35.0844",
+        "long": "-106.6504"
+      }
+    },
+    "phone": "1-505-555-6789"
+  },
+  {
+    "id": 34,
+    "email": "sharon.garcia@hotmail.com",
+    "username": "sharong",
+    "password": "garcia!44",
+    "name": {
+      "firstname": "Sharon",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Tucson",
+      "street": "oracle rd",
+      "number": 8899,
+      "zipcode": "85701",
+      "geolocation": {
+        "lat": "32.2226",
+        "long": "-110.9747"
+      }
+    },
+    "phone": "1-520-555-0123"
+  },
+  {
+    "id": 35,
+    "email": "jason.lopez@protonmail.com",
+    "username": "jasonl",
+    "password": "lopez_33",
+    "name": {
+      "firstname": "Jason",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Fresno",
+      "street": "shaw ave",
+      "number": 1011,
+      "zipcode": "93701",
+      "geolocation": {
+        "lat": "36.7378",
+        "long": "-119.7871"
+      }
+    },
+    "phone": "1-559-555-4567"
+  },
+  {
+    "id": 36,
+    "email": "laura.gonzalez@icloud.com",
+    "username": "laurag",
+    "password": "gonzalez2024",
+    "name": {
+      "firstname": "Laura",
+      "lastname": "Gonzalez"
+    },
+    "address": {
+      "city": "Sacramento",
+      "street": "capitol ave",
+      "number": 2233,
+      "zipcode": "95801",
+      "geolocation": {
+        "lat": "38.5816",
+        "long": "-121.4944"
+      }
+    },
+    "phone": "1-916-555-8901"
+  },
+  {
+    "id": 37,
+    "email": "jeffrey.wilson@gmail.com",
+    "username": "jeffreyw",
+    "password": "wilson#22",
+    "name": {
+      "firstname": "Jeffrey",
+      "lastname": "Wilson"
+    },
+    "address": {
+      "city": "Mesa",
+      "street": "main st",
+      "number": 3344,
+      "zipcode": "85201",
+      "geolocation": {
+        "lat": "33.4152",
+        "long": "-111.8315"
+      }
+    },
+    "phone": "1-480-555-2345"
+  },
+  {
+    "id": 38,
+    "email": "deborah.martinez@yahoo.com",
+    "username": "deborahm",
+    "password": "martinez99",
+    "name": {
+      "firstname": "Deborah",
+      "lastname": "Martinez"
+    },
+    "address": {
+      "city": "Atlanta",
+      "street": "peachtree st",
+      "number": 5566,
+      "zipcode": "30301",
+      "geolocation": {
+        "lat": "33.7490",
+        "long": "-84.3880"
+      }
+    },
+    "phone": "1-404-555-6789"
+  },
+  {
+    "id": 39,
+    "email": "ryan.hernandez@outlook.com",
+    "username": "ryanh",
+    "password": "hernandez!11",
+    "name": {
+      "firstname": "Ryan",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Kansas City",
+      "street": "grand blvd",
+      "number": 7788,
+      "zipcode": "64101",
+      "geolocation": {
+        "lat": "39.0997",
+        "long": "-94.5786"
+      }
+    },
+    "phone": "1-816-555-0123"
+  },
+  {
+    "id": 40,
+    "email": "cynthia.moore@hotmail.com",
+    "username": "cynthiam",
+    "password": "moore2023$",
+    "name": {
+      "firstname": "Cynthia",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Omaha",
+      "street": "dodge st",
+      "number": 9900,
+      "zipcode": "68101",
+      "geolocation": {
+        "lat": "41.2565",
+        "long": "-95.9345"
+      }
+    },
+    "phone": "1-402-555-4567"
+  },
+  {
+    "id": 41,
+    "email": "gary.jackson@protonmail.com",
+    "username": "garyj",
+    "password": "jackson_88",
+    "name": {
+      "firstname": "Gary",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Miami",
+      "street": "ocean dr",
+      "number": 1123,
+      "zipcode": "33101",
+      "geolocation": {
+        "lat": "25.7617",
+        "long": "-80.1918"
+      }
+    },
+    "phone": "1-305-555-8901"
+  },
+  {
+    "id": 42,
+    "email": "alice.anderson@icloud.com",
+    "username": "alicea",
+    "password": "anderson55",
+    "name": {
+      "firstname": "Alice",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Tulsa",
+      "street": "peoria ave",
+      "number": 4455,
+      "zipcode": "74101",
+      "geolocation": {
+        "lat": "36.1540",
+        "long": "-95.9928"
+      }
+    },
+    "phone": "1-918-555-2345"
+  },
+  {
+    "id": 43,
+    "email": "timothy.thomas@gmail.com",
+    "username": "timothyt",
+    "password": "thomas#44",
+    "name": {
+      "firstname": "Timothy",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Arlington",
+      "street": "division st",
+      "number": 6677,
+      "zipcode": "76001",
+      "geolocation": {
+        "lat": "32.7357",
+        "long": "-97.1081"
+      }
+    },
+    "phone": "1-817-555-6789"
+  },
+  {
+    "id": 44,
+    "email": "shirley.jackson@yahoo.com",
+    "username": "shirleyj",
+    "password": "jackson2024",
+    "name": {
+      "firstname": "Shirley",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "New Orleans",
+      "street": "bourbon st",
+      "number": 8899,
+      "zipcode": "70112",
+      "geolocation": {
+        "lat": "29.9511",
+        "long": "-90.0715"
+      }
+    },
+    "phone": "1-504-555-0123"
+  },
+  {
+    "id": 45,
+    "email": "jason.white@outlook.com",
+    "username": "jasonw",
+    "password": "white!33",
+    "name": {
+      "firstname": "Jason",
+      "lastname": "White"
+    },
+    "address": {
+      "city": "Wichita",
+      "street": "douglas ave",
+      "number": 1011,
+      "zipcode": "67201",
+      "geolocation": {
+        "lat": "37.6872",
+        "long": "-97.3301"
+      }
+    },
+    "phone": "1-316-555-4567"
+  },
+  {
+    "id": 46,
+    "email": "brenda.harris@hotmail.com",
+    "username": "brendah",
+    "password": "harris99$",
+    "name": {
+      "firstname": "Brenda",
+      "lastname": "Harris"
+    },
+    "address": {
+      "city": "Cleveland",
+      "street": "euclid ave",
+      "number": 2233,
+      "zipcode": "44101",
+      "geolocation": {
+        "lat": "41.4993",
+        "long": "-81.6944"
+      }
+    },
+    "phone": "1-216-555-8901"
+  },
+  {
+    "id": 47,
+    "email": "eric.martin@protonmail.com",
+    "username": "ericm",
+    "password": "martin_22",
+    "name": {
+      "firstname": "Eric",
+      "lastname": "Martin"
+    },
+    "address": {
+      "city": "Bakersfield",
+      "street": "chester ave",
+      "number": 3344,
+      "zipcode": "93301",
+      "geolocation": {
+        "lat": "35.3733",
+        "long": "-119.0187"
+      }
+    },
+    "phone": "1-661-555-2345"
+  },
+  {
+    "id": 48,
+    "email": "pamela.thompson@icloud.com",
+    "username": "pamelat",
+    "password": "thompson88",
+    "name": {
+      "firstname": "Pamela",
+      "lastname": "Thompson"
+    },
+    "address": {
+      "city": "Aurora",
+      "street": "colfax ave",
+      "number": 5566,
+      "zipcode": "80010",
+      "geolocation": {
+        "lat": "39.7294",
+        "long": "-104.8319"
+      }
+    },
+    "phone": "1-303-555-6789"
+  },
+  {
+    "id": 49,
+    "email": "stephen.garcia@gmail.com",
+    "username": "stepheng",
+    "password": "garcia#11",
+    "name": {
+      "firstname": "Stephen",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Anaheim",
+      "street": "harbor blvd",
+      "number": 7788,
+      "zipcode": "92801",
+      "geolocation": {
+        "lat": "33.8366",
+        "long": "-117.9143"
+      }
+    },
+    "phone": "1-714-555-0123"
+  },
+  {
+    "id": 50,
+    "email": "annette.lopez@yahoo.com",
+    "username": "annettel",
+    "password": "lopez2023!",
+    "name": {
+      "firstname": "Annette",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Honolulu",
+      "street": "kalakaua ave",
+      "number": 9900,
+      "zipcode": "96801",
+      "geolocation": {
+        "lat": "21.3069",
+        "long": "-157.8583"
+      }
+    },
+    "phone": "1-808-555-4567"
+  },
+  {
+    "id": 51,
+    "email": "larry.gonzalez@outlook.com",
+    "username": "larryg",
+    "password": "gonzalez55",
+    "name": {
+      "firstname": "Larry",
+      "lastname": "Gonzalez"
+    },
+    "address": {
+      "city": "Riverside",
+      "street": "university ave",
+      "number": 1123,
+      "zipcode": "92501",
+      "geolocation": {
+        "lat": "33.9806",
+        "long": "-117.3755"
+      }
+    },
+    "phone": "1-951-555-8901"
+  },
+  {
+    "id": 52,
+    "email": "janet.wilson@hotmail.com",
+    "username": "janetw",
+    "password": "wilson2024$",
+    "name": {
+      "firstname": "Janet",
+      "lastname": "Wilson"
+    },
+    "address": {
+      "city": "Santa Ana",
+      "street": "main st",
+      "number": 4455,
+      "zipcode": "92701",
+      "geolocation": {
+        "lat": "33.7455",
+        "long": "-117.8678"
+      }
+    },
+    "phone": "1-714-555-2345"
+  },
+  {
+    "id": 53,
+    "email": "gerald.martinez@protonmail.com",
+    "username": "geraldm",
+    "password": "martinez#44",
+    "name": {
+      "firstname": "Gerald",
+      "lastname": "Martinez"
+    },
+    "address": {
+      "city": "Corpus Christi",
+      "street": "ocean dr",
+      "number": 6677,
+      "zipcode": "78401",
+      "geolocation": {
+        "lat": "27.8006",
+        "long": "-97.3964"
+      }
+    },
+    "phone": "1-361-555-6789"
+  },
+  {
+    "id": 54,
+    "email": "marilyn.hernandez@icloud.com",
+    "username": "marilynh",
+    "password": "hernandez33",
+    "name": {
+      "firstname": "Marilyn",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Lexington",
+      "street": "main st",
+      "number": 8899,
+      "zipcode": "40501",
+      "geolocation": {
+        "lat": "38.0406",
+        "long": "-84.5037"
+      }
+    },
+    "phone": "1-859-555-0123"
+  },
+  {
+    "id": 55,
+    "email": "harold.moore@gmail.com",
+    "username": "haroldm",
+    "password": "moore!22",
+    "name": {
+      "firstname": "Harold",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Stockton",
+      "street": "pacific ave",
+      "number": 1011,
+      "zipcode": "95201",
+      "geolocation": {
+        "lat": "37.9577",
+        "long": "-121.2908"
+      }
+    },
+    "phone": "1-209-555-4567"
+  },
+  {
+    "id": 56,
+    "email": "diane.jackson@yahoo.com",
+    "username": "dianej",
+    "password": "jackson99",
+    "name": {
+      "firstname": "Diane",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "St. Paul",
+      "street": "robert st",
+      "number": 2233,
+      "zipcode": "55101",
+      "geolocation": {
+        "lat": "44.9537",
+        "long": "-93.0900"
+      }
+    },
+    "phone": "1-651-555-8901"
+  },
+  {
+    "id": 57,
+    "email": "jerry.anderson@outlook.com",
+    "username": "jerrya",
+    "password": "anderson_11",
+    "name": {
+      "firstname": "Jerry",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Cincinnati",
+      "street": "vine st",
+      "number": 3344,
+      "zipcode": "45201",
+      "geolocation": {
+        "lat": "39.1031",
+        "long": "-84.5120"
+      }
+    },
+    "phone": "1-513-555-2345"
+  },
+  {
+    "id": 58,
+    "email": "ann.thomas@hotmail.com",
+    "username": "annt",
+    "password": "thomas2023",
+    "name": {
+      "firstname": "Ann",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Greensboro",
+      "street": "elm st",
+      "number": 5566,
+      "zipcode": "27401",
+      "geolocation": {
+        "lat": "36.0726",
+        "long": "-79.7920"
+      }
+    },
+    "phone": "1-336-555-6789"
+  },
+  {
+    "id": 59,
+    "email": "carl.garcia@protonmail.com",
+    "username": "carlg",
+    "password": "garcia#88",
+    "name": {
+      "firstname": "Carl",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Pittsburgh",
+      "street": "liberty ave",
+      "number": 7788,
+      "zipcode": "15201",
+      "geolocation": {
+        "lat": "40.4406",
+        "long": "-79.9959"
+      }
+    },
+    "phone": "1-412-555-0123"
+  },
+  {
+    "id": 60,
+    "email": "joyce.lopez@icloud.com",
+    "username": "joycel",
+    "password": "lopez55!",
+    "name": {
+      "firstname": "Joyce",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Anchorage",
+      "street": "northern lights blvd",
+      "number": 9900,
+      "zipcode": "99501",
+      "geolocation": {
+        "lat": "61.2181",
+        "long": "-149.9003"
+      }
+    },
+    "phone": "1-907-555-4567"
+  },
+  {
+    "id": 61,
+    "email": "wayne.gonzalez@gmail.com",
+    "username": "wayneg",
+    "password": "gonzalez2024",
+    "name": {
+      "firstname": "Wayne",
+      "lastname": "Gonzalez"
+    },
+    "address": {
+      "city": "Plano",
+      "street": "legacy dr",
+      "number": 1123,
+      "zipcode": "75001",
+      "geolocation": {
+        "lat": "33.0198",
+        "long": "-96.6989"
+      }
+    },
+    "phone": "1-972-555-8901"
+  },
+  {
+    "id": 62,
+    "email": "ruth.wilson@yahoo.com",
+    "username": "ruthw",
+    "password": "wilson#33",
+    "name": {
+      "firstname": "Ruth",
+      "lastname": "Wilson"
+    },
+    "address": {
+      "city": "Orlando",
+      "street": "orange ave",
+      "number": 4455,
+      "zipcode": "32801",
+      "geolocation": {
+        "lat": "28.5383",
+        "long": "-81.3792"
+      }
+    },
+    "phone": "1-407-555-2345"
+  },
+  {
+    "id": 63,
+    "email": "eugene.martinez@outlook.com",
+    "username": "eugenem",
+    "password": "martinez22",
+    "name": {
+      "firstname": "Eugene",
+      "lastname": "Martinez"
+    },
+    "address": {
+      "city": "Irvine",
+      "street": "barranca pkwy",
+      "number": 6677,
+      "zipcode": "92601",
+      "geolocation": {
+        "lat": "33.6846",
+        "long": "-117.8265"
+      }
+    },
+    "phone": "1-949-555-6789"
+  },
+  {
+    "id": 64,
+    "email": "judith.hernandez@hotmail.com",
+    "username": "judithh",
+    "password": "hernandez99$",
+    "name": {
+      "firstname": "Judith",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Newark",
+      "street": "market st",
+      "number": 8899,
+      "zipcode": "07101",
+      "geolocation": {
+        "lat": "40.7357",
+        "long": "-74.1724"
+      }
+    },
+    "phone": "1-973-555-0123"
+  },
+  {
+    "id": 65,
+    "email": "carlton.moore@protonmail.com",
+    "username": "carltonm",
+    "password": "moore_11",
+    "name": {
+      "firstname": "Carlton",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Toledo",
+      "street": "madison ave",
+      "number": 1011,
+      "zipcode": "43601",
+      "geolocation": {
+        "lat": "41.6528",
+        "long": "-83.5379"
+      }
+    },
+    "phone": "1-419-555-4567"
+  },
+  {
+    "id": 66,
+    "email": "phyllis.jackson@icloud.com",
+    "username": "phyllisj",
+    "password": "jackson2023!",
+    "name": {
+      "firstname": "Phyllis",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Durham",
+      "street": "main st",
+      "number": 2233,
+      "zipcode": "27701",
+      "geolocation": {
+        "lat": "35.9940",
+        "long": "-78.8986"
+      }
+    },
+    "phone": "1-919-555-8901"
+  },
+  {
+    "id": 67,
+    "email": "philip.anderson@gmail.com",
+    "username": "philipa",
+    "password": "anderson88",
+    "name": {
+      "firstname": "Philip",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Chula Vista",
+      "street": "broadway",
+      "number": 3344,
+      "zipcode": "91901",
+      "geolocation": {
+        "lat": "32.6278",
+        "long": "-117.0480"
+      }
+    },
+    "phone": "1-619-555-2345"
+  },
+  {
+    "id": 68,
+    "email": "jean.thomas@yahoo.com",
+    "username": "jeant",
+    "password": "thomas#55",
+    "name": {
+      "firstname": "Jean",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Fort Wayne",
+      "street": "clinton st",
+      "number": 5566,
+      "zipcode": "46801",
+      "geolocation": {
+        "lat": "41.0793",
+        "long": "-85.1394"
+      }
+    },
+    "phone": "1-260-555-6789"
+  },
+  {
+    "id": 69,
+    "email": "roger.garcia@outlook.com",
+    "username": "rogerg",
+    "password": "garcia2024",
+    "name": {
+      "firstname": "Roger",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "St. Petersburg",
+      "street": "central ave",
+      "number": 7788,
+      "zipcode": "33701",
+      "geolocation": {
+        "lat": "27.7676",
+        "long": "-82.6403"
+      }
+    },
+    "phone": "1-727-555-0123"
+  },
+  {
+    "id": 70,
+    "email": "martha.lopez@hotmail.com",
+    "username": "marthal",
+    "password": "lopez!33",
+    "name": {
+      "firstname": "Martha",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Laredo",
+      "street": "san bernardo ave",
+      "number": 9900,
+      "zipcode": "78040",
+      "geolocation": {
+        "lat": "27.5306",
+        "long": "-99.4803"
+      }
+    },
+    "phone": "1-956-555-4567"
+  },
+  {
+    "id": 71,
+    "email": "arthur.hernandez@protonmail.com",
+    "username": "arthurh",
+    "password": "hernandez99",
+    "name": {
+      "firstname": "Arthur",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Jersey City",
+      "street": "journal sq",
+      "number": 1123,
+      "zipcode": "07301",
+      "geolocation": {
+        "lat": "40.7178",
+        "long": "-74.0431"
+      }
+    },
+    "phone": "1-201-555-8901"
+  },
+  {
+    "id": 72,
+    "email": "theresa.moore@icloud.com",
+    "username": "theresam",
+    "password": "moore_22",
+    "name": {
+      "firstname": "Theresa",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Madison",
+      "street": "state st",
+      "number": 4455,
+      "zipcode": "53701",
+      "geolocation": {
+        "lat": "43.0731",
+        "long": "-89.4012"
+      }
+    },
+    "phone": "1-608-555-2345"
+  },
+  {
+    "id": 73,
+    "email": "lawrence.jackson@gmail.com",
+    "username": "lawrencej",
+    "password": "jackson88$",
+    "name": {
+      "firstname": "Lawrence",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Chandler",
+      "street": "arizona ave",
+      "number": 6677,
+      "zipcode": "85201",
+      "geolocation": {
+        "lat": "33.3062",
+        "long": "-111.8413"
+      }
+    },
+    "phone": "1-480-555-6789"
+  },
+  {
+    "id": 74,
+    "email": "beverly.anderson@yahoo.com",
+    "username": "beverlya",
+    "password": "anderson55",
+    "name": {
+      "firstname": "Beverly",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Lubbock",
+      "street": "broadway",
+      "number": 8899,
+      "zipcode": "79401",
+      "geolocation": {
+        "lat": "33.5779",
+        "long": "-101.8552"
+      }
+    },
+    "phone": "1-806-555-0123"
+  },
+  {
+    "id": 75,
+    "email": "eugene.thomas@outlook.com",
+    "username": "eugenet",
+    "password": "thomas#44",
+    "name": {
+      "firstname": "Eugene",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Scottsdale",
+      "street": "scottsdale rd",
+      "number": 1011,
+      "zipcode": "85250",
+      "geolocation": {
+        "lat": "33.4942",
+        "long": "-111.9261"
+      }
+    },
+    "phone": "1-480-555-4567"
+  },
+  {
+    "id": 76,
+    "email": "gloria.garcia@hotmail.com",
+    "username": "gloriag",
+    "password": "garcia2023!",
+    "name": {
+      "firstname": "Gloria",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Reno",
+      "street": "virginia st",
+      "number": 2233,
+      "zipcode": "89501",
+      "geolocation": {
+        "lat": "39.5296",
+        "long": "-119.8138"
+      }
+    },
+    "phone": "1-775-555-8901"
+  },
+  {
+    "id": 77,
+    "email": "roy.lopez@protonmail.com",
+    "username": "royl",
+    "password": "lopez_11",
+    "name": {
+      "firstname": "Roy",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Buffalo",
+      "street": "delaware ave",
+      "number": 3344,
+      "zipcode": "14201",
+      "geolocation": {
+        "lat": "42.8864",
+        "long": "-78.8784"
+      }
+    },
+    "phone": "1-716-555-2345"
+  },
+  {
+    "id": 78,
+    "email": "joan.hernandez@icloud.com",
+    "username": "joanh",
+    "password": "hernandez99",
+    "name": {
+      "firstname": "Joan",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Gilbert",
+      "street": "gilbert rd",
+      "number": 5566,
+      "zipcode": "85233",
+      "geolocation": {
+        "lat": "33.3528",
+        "long": "-111.7890"
+      }
+    },
+    "phone": "1-480-555-6789"
+  },
+  {
+    "id": 79,
+    "email": "ralph.moore@gmail.com",
+    "username": "ralphm",
+    "password": "moore2024$",
+    "name": {
+      "firstname": "Ralph",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Glendale",
+      "street": "bell rd",
+      "number": 7788,
+      "zipcode": "85301",
+      "geolocation": {
+        "lat": "33.5387",
+        "long": "-112.1860"
+      }
+    },
+    "phone": "1-623-555-0123"
+  },
+  {
+    "id": 80,
+    "email": "mildred.jackson@yahoo.com",
+    "username": "mildredj",
+    "password": "jackson!33",
+    "name": {
+      "firstname": "Mildred",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Hialeah",
+      "street": "palm ave",
+      "number": 9900,
+      "zipcode": "33010",
+      "geolocation": {
+        "lat": "25.8576",
+        "long": "-80.2781"
+      }
+    },
+    "phone": "1-305-555-4567"
+  },
+  {
+    "id": 81,
+    "email": "earl.anderson@outlook.com",
+    "username": "earla",
+    "password": "anderson88",
+    "name": {
+      "firstname": "Earl",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Raleigh",
+      "street": "hillsborough st",
+      "number": 1123,
+      "zipcode": "27601",
+      "geolocation": {
+        "lat": "35.7796",
+        "long": "-78.6382"
+      }
+    },
+    "phone": "1-919-555-8901"
+  },
+  {
+    "id": 82,
+    "email": "joanne.thomas@hotmail.com",
+    "username": "joannet",
+    "password": "thomas#22",
+    "name": {
+      "firstname": "Joanne",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Chesapeake",
+      "street": "military hwy",
+      "number": 4455,
+      "zipcode": "23320",
+      "geolocation": {
+        "lat": "36.7682",
+        "long": "-76.2875"
+      }
+    },
+    "phone": "1-757-555-2345"
+  },
+  {
+    "id": 83,
+    "email": "evelyn.garcia@protonmail.com",
+    "username": "evelyng",
+    "password": "garcia55",
+    "name": {
+      "firstname": "Evelyn",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Winston-Salem",
+      "street": "trade st",
+      "number": 6677,
+      "zipcode": "27101",
+      "geolocation": {
+        "lat": "36.0999",
+        "long": "-80.2442"
+      }
+    },
+    "phone": "1-336-555-6789"
+  },
+  {
+    "id": 84,
+    "email": "douglas.lopez@icloud.com",
+    "username": "douglasl",
+    "password": "lopez2023!",
+    "name": {
+      "firstname": "Douglas",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Garland",
+      "street": "garland ave",
+      "number": 8899,
+      "zipcode": "75040",
+      "geolocation": {
+        "lat": "32.9126",
+        "long": "-96.6389"
+      }
+    },
+    "phone": "1-972-555-0123"
+  },
+  {
+    "id": 85,
+    "email": "alice.hernandez@gmail.com",
+    "username": "aliceh",
+    "password": "hernandez99",
+    "name": {
+      "firstname": "Alice",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Irving",
+      "street": "las colinas blvd",
+      "number": 1011,
+      "zipcode": "75038",
+      "geolocation": {
+        "lat": "32.8140",
+        "long": "-96.9489"
+      }
+    },
+    "phone": "1-972-555-4567"
+  },
+  {
+    "id": 86,
+    "email": "walter.moore@yahoo.com",
+    "username": "walterm",
+    "password": "moore_44",
+    "name": {
+      "firstname": "Walter",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Fremont",
+      "street": "mission blvd",
+      "number": 2233,
+      "zipcode": "94536",
+      "geolocation": {
+        "lat": "37.5483",
+        "long": "-121.9886"
+      }
+    },
+    "phone": "1-510-555-8901"
+  },
+  {
+    "id": 87,
+    "email": "rose.jackson@outlook.com",
+    "username": "rosej",
+    "password": "jackson!22",
+    "name": {
+      "firstname": "Rose",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Boise",
+      "street": "idaho st",
+      "number": 3344,
+      "zipcode": "83701",
+      "geolocation": {
+        "lat": "43.6150",
+        "long": "-116.2023"
+      }
+    },
+    "phone": "1-208-555-2345"
+  },
+  {
+    "id": 88,
+    "email": "harry.anderson@hotmail.com",
+    "username": "harrya",
+    "password": "anderson2024",
+    "name": {
+      "firstname": "Harry",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Richmond",
+      "street": "broad st",
+      "number": 5566,
+      "zipcode": "23219",
+      "geolocation": {
+        "lat": "37.5407",
+        "long": "-77.4360"
+      }
+    },
+    "phone": "1-804-555-6789"
+  },
+  {
+    "id": 89,
+    "email": "doris.thomas@protonmail.com",
+    "username": "dorist",
+    "password": "thomas#11",
+    "name": {
+      "firstname": "Doris",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Spokane",
+      "street": "riverside ave",
+      "number": 7788,
+      "zipcode": "99201",
+      "geolocation": {
+        "lat": "47.6588",
+        "long": "-117.4260"
+      }
+    },
+    "phone": "1-509-555-0123"
+  },
+  {
+    "id": 90,
+    "email": "edith.garcia@icloud.com",
+    "username": "edithg",
+    "password": "garcia55$",
+    "name": {
+      "firstname": "Edith",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Baton Rouge",
+      "street": "government st",
+      "number": 9900,
+      "zipcode": "70801",
+      "geolocation": {
+        "lat": "30.4515",
+        "long": "-91.1871"
+      }
+    },
+    "phone": "1-225-555-4567"
+  },
+  {
+    "id": 91,
+    "email": "ernest.lopez@gmail.com",
+    "username": "ernestl",
+    "password": "lopez2023",
+    "name": {
+      "firstname": "Ernest",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Des Moines",
+      "street": "grand ave",
+      "number": 1123,
+      "zipcode": "50301",
+      "geolocation": {
+        "lat": "41.5868",
+        "long": "-93.6250"
+      }
+    },
+    "phone": "1-515-555-8901"
+  },
+  {
+    "id": 92,
+    "email": "thelma.hernandez@yahoo.com",
+    "username": "thelmah",
+    "password": "hernandez#88",
+    "name": {
+      "firstname": "Thelma",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Tacoma",
+      "street": "pacific ave",
+      "number": 4455,
+      "zipcode": "98401",
+      "geolocation": {
+        "lat": "47.2529",
+        "long": "-122.4443"
+      }
+    },
+    "phone": "1-253-555-2345"
+  },
+  {
+    "id": 93,
+    "email": "howard.moore@outlook.com",
+    "username": "howardm",
+    "password": "moore!22",
+    "name": {
+      "firstname": "Howard",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Modesto",
+      "street": "mc henry ave",
+      "number": 6677,
+      "zipcode": "95350",
+      "geolocation": {
+        "lat": "37.6391",
+        "long": "-120.9969"
+      }
+    },
+    "phone": "1-209-555-6789"
+  },
+  {
+    "id": 94,
+    "email": "juanita.jackson@hotmail.com",
+    "username": "juanitaj",
+    "password": "jackson99",
+    "name": {
+      "firstname": "Juanita",
+      "lastname": "Jackson"
+    },
+    "address": {
+      "city": "Huntington Beach",
+      "street": "main st",
+      "number": 8899,
+      "zipcode": "92647",
+      "geolocation": {
+        "lat": "33.6595",
+        "long": "-117.9988"
+      }
+    },
+    "phone": "1-714-555-0123"
+  },
+  {
+    "id": 95,
+    "email": "clarence.anderson@protonmail.com",
+    "username": "clarencea",
+    "password": "anderson_44",
+    "name": {
+      "firstname": "Clarence",
+      "lastname": "Anderson"
+    },
+    "address": {
+      "city": "Yonkers",
+      "street": "south broadway",
+      "number": 1011,
+      "zipcode": "10701",
+      "geolocation": {
+        "lat": "40.9312",
+        "long": "-73.8987"
+      }
+    },
+    "phone": "1-914-555-4567"
+  },
+  {
+    "id": 96,
+    "email": "lillian.thomas@icloud.com",
+    "username": "lilliant",
+    "password": "thomas2024!",
+    "name": {
+      "firstname": "Lillian",
+      "lastname": "Thomas"
+    },
+    "address": {
+      "city": "Glendale",
+      "street": "brand blvd",
+      "number": 2233,
+      "zipcode": "91201",
+      "geolocation": {
+        "lat": "34.1425",
+        "long": "-118.2551"
+      }
+    },
+    "phone": "1-818-555-8901"
+  },
+  {
+    "id": 97,
+    "email": "stanley.garcia@gmail.com",
+    "username": "stanleyg",
+    "password": "garcia#33",
+    "name": {
+      "firstname": "Stanley",
+      "lastname": "Garcia"
+    },
+    "address": {
+      "city": "Aurora",
+      "street": "e colfax ave",
+      "number": 3344,
+      "zipcode": "80010",
+      "geolocation": {
+        "lat": "39.7294",
+        "long": "-104.8319"
+      }
+    },
+    "phone": "1-303-555-2345"
+  },
+  {
+    "id": 98,
+    "email": "marjorie.lopez@yahoo.com",
+    "username": "marjoriel",
+    "password": "lopez55$",
+    "name": {
+      "firstname": "Marjorie",
+      "lastname": "Lopez"
+    },
+    "address": {
+      "city": "Montgomery",
+      "street": "dexter ave",
+      "number": 5566,
+      "zipcode": "36101",
+      "geolocation": {
+        "lat": "32.3668",
+        "long": "-86.3000"
+      }
+    },
+    "phone": "1-334-555-6789"
+  },
+  {
+    "id": 99,
+    "email": "leonard.hernandez@outlook.com",
+    "username": "leonardh",
+    "password": "hernandez2023",
+    "name": {
+      "firstname": "Leonard",
+      "lastname": "Hernandez"
+    },
+    "address": {
+      "city": "Akron",
+      "street": "main st",
+      "number": 7788,
+      "zipcode": "44301",
+      "geolocation": {
+        "lat": "41.0814",
+        "long": "-81.5190"
+      }
+    },
+    "phone": "1-330-555-0123"
+  },
+  {
+    "id": 100,
+    "email": "thelma.moore@protonmail.com",
+    "username": "thelmam",
+    "password": "moore!11",
+    "name": {
+      "firstname": "Thelma",
+      "lastname": "Moore"
+    },
+    "address": {
+      "city": "Little Rock",
+      "street": "markham st",
+      "number": 9900,
+      "zipcode": "72201",
+      "geolocation": {
+        "lat": "34.7465",
+        "long": "-92.2896"
+      }
+    },
+    "phone": "1-501-555-4567"
+  }
+]

@@ -2609,3 +2609,1407 @@
     "color": "Navy"
   }
 ]
+
+
+[
+  {
+    "id": 1,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/300/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 423
+    },
+    "color": "Black",
+    "quantity": 85
+  },
+  {
+    "id": 2,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/301/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 113
+    },
+    "color": "White",
+    "quantity": 120
+  },
+  {
+    "id": 3,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/302/400/400",
+    "rating": {
+      "rate": 5.0,
+      "count": 243
+    },
+    "color": "Red",
+    "quantity": 65
+  },
+  {
+    "id": 4,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/303/400/400",
+    "rating": {
+      "rate": 3.6,
+      "count": 200
+    },
+    "color": "Blue",
+    "quantity": 95
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/304/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 366
+    },
+    "color": "Silver",
+    "quantity": 110
+  },
+  {
+    "id": 6,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/305/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 235
+    },
+    "color": "Gold",
+    "quantity": 75
+  },
+  {
+    "id": 7,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/306/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 410
+    },
+    "color": "Green",
+    "quantity": 140
+  },
+  {
+    "id": 8,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/307/400/400",
+    "rating": {
+      "rate": 3.6,
+      "count": 388
+    },
+    "color": "Pink",
+    "quantity": 50
+  },
+  {
+    "id": 9,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/308/400/400",
+    "rating": {
+      "rate": 3.8,
+      "count": 198
+    },
+    "color": "Gray",
+    "quantity": 130
+  },
+  {
+    "id": 10,
+    "title": "Nike Air Force 1",
+    "price": 109.99,
+    "description": "Classic sneakers with timeless style and comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/309/400/400",
+    "rating": {
+      "rate": 5.0,
+      "count": 487
+    },
+    "color": "Navy",
+    "quantity": 60
+  },
+  {
+    "id": 11,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/310/400/400",
+    "rating": {
+      "rate": 3.8,
+      "count": 101
+    },
+    "color": "Black",
+    "quantity": 45
+  },
+  {
+    "id": 12,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/311/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 282
+    },
+    "color": "White",
+    "quantity": 80
+  },
+  {
+    "id": 13,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/312/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 236
+    },
+    "color": "Red",
+    "quantity": 100
+  },
+  {
+    "id": 14,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/313/400/400",
+    "rating": {
+      "rate": 3.7,
+      "count": 231
+    },
+    "color": "Blue",
+    "quantity": 55
+  },
+  {
+    "id": 15,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/314/400/400",
+    "rating": {
+      "rate": 3.8,
+      "count": 186
+    },
+    "color": "Silver",
+    "quantity": 90
+  },
+  {
+    "id": 16,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/315/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 399
+    },
+    "color": "Gold",
+    "quantity": 70
+  },
+  {
+    "id": 17,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/316/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 361
+    },
+    "color": "Green",
+    "quantity": 115
+  },
+  {
+    "id": 18,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/317/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 323
+    },
+    "color": "Pink",
+    "quantity": 35
+  },
+  {
+    "id": 19,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/318/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 133
+    },
+    "color": "Gray",
+    "quantity": 125
+  },
+  {
+    "id": 20,
+    "title": "Adidas Ultraboost",
+    "price": 179.99,
+    "description": "Running shoes with Boost cushioning for ultimate energy return.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/319/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 188
+    },
+    "color": "Navy",
+    "quantity": 105
+  },
+  {
+    "id": 21,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/320/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 512
+    },
+    "color": "Black",
+    "quantity": 60
+  },
+  {
+    "id": 22,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/321/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 289
+    },
+    "color": "White",
+    "quantity": 90
+  },
+  {
+    "id": 23,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/322/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 176
+    },
+    "color": "Red",
+    "quantity": 40
+  },
+  {
+    "id": 24,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/323/400/400",
+    "rating": {
+      "rate": 4.9,
+      "count": 341
+    },
+    "color": "Blue",
+    "quantity": 110
+  },
+  {
+    "id": 25,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/324/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 204
+    },
+    "color": "Silver",
+    "quantity": 75
+  },
+  {
+    "id": 26,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/325/400/400",
+    "rating": {
+      "rate": 3.9,
+      "count": 157
+    },
+    "color": "Gold",
+    "quantity": 55
+  },
+  {
+    "id": 27,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/326/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 398
+    },
+    "color": "Green",
+    "quantity": 85
+  },
+  {
+    "id": 28,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/327/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 267
+    },
+    "color": "Pink",
+    "quantity": 70
+  },
+  {
+    "id": 29,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/328/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 312
+    },
+    "color": "Gray",
+    "quantity": 95
+  },
+  {
+    "id": 30,
+    "title": "Levi's 501 Jeans",
+    "price": 89.99,
+    "description": "Original straight fit blue jeans made from premium denim.",
+    "category": "jeans",
+    "image": "https://picsum.photos/id/329/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 445
+    },
+    "color": "Navy",
+    "quantity": 50
+  },
+  {
+    "id": 31,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/330/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 278
+    },
+    "color": "Black",
+    "quantity": 120
+  },
+  {
+    "id": 32,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/331/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 195
+    },
+    "color": "White",
+    "quantity": 80
+  },
+  {
+    "id": 33,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/332/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 367
+    },
+    "color": "Red",
+    "quantity": 100
+  },
+  {
+    "id": 34,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/333/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 142
+    },
+    "color": "Blue",
+    "quantity": 65
+  },
+  {
+    "id": 35,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/334/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 289
+    },
+    "color": "Silver",
+    "quantity": 90
+  },
+  {
+    "id": 36,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/335/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 221
+    },
+    "color": "Gold",
+    "quantity": 110
+  },
+  {
+    "id": 37,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/336/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 156
+    },
+    "color": "Green",
+    "quantity": 75
+  },
+  {
+    "id": 38,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/337/400/400",
+    "rating": {
+      "rate": 3.9,
+      "count": 334
+    },
+    "color": "Pink",
+    "quantity": 95
+  },
+  {
+    "id": 39,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/338/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 412
+    },
+    "color": "Gray",
+    "quantity": 55
+  },
+  {
+    "id": 40,
+    "title": "Champion Reverse Weave Hoodie",
+    "price": 59.99,
+    "description": "Iconic heavyweight hoodie with classic look and durability.",
+    "category": "hoodies",
+    "image": "https://picsum.photos/id/339/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 187
+    },
+    "color": "Navy",
+    "quantity": 85
+  },
+  {
+    "id": 41,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/340/400/400",
+    "rating": {
+      "rate": 3.9,
+      "count": 130
+    },
+    "color": "Black",
+    "quantity": 150
+  },
+  {
+    "id": 42,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/341/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 419
+    },
+    "color": "White",
+    "quantity": 200
+  },
+  {
+    "id": 43,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/342/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 184
+    },
+    "color": "Red",
+    "quantity": 180
+  },
+  {
+    "id": 44,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/343/400/400",
+    "rating": {
+      "rate": 5.0,
+      "count": 440
+    },
+    "color": "Blue",
+    "quantity": 160
+  },
+  {
+    "id": 45,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/344/400/400",
+    "rating": {
+      "rate": 3.8,
+      "count": 104
+    },
+    "color": "Silver",
+    "quantity": 170
+  },
+  {
+    "id": 46,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/345/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 202
+    },
+    "color": "Gold",
+    "quantity": 140
+  },
+  {
+    "id": 47,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/346/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 309
+    },
+    "color": "Green",
+    "quantity": 190
+  },
+  {
+    "id": 48,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/347/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 128
+    },
+    "color": "Pink",
+    "quantity": 130
+  },
+  {
+    "id": 49,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/348/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 132
+    },
+    "color": "Gray",
+    "quantity": 210
+  },
+  {
+    "id": 50,
+    "title": "Under Armour HeatGear T-Shirt",
+    "price": 29.99,
+    "description": "Lightweight compression shirt for athletic performance.",
+    "category": "t-shirts",
+    "image": "https://picsum.photos/id/349/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 448
+    },
+    "color": "Navy",
+    "quantity": 155
+  },
+  {
+    "id": 51,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/350/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 256
+    },
+    "color": "Black",
+    "quantity": 70
+  },
+  {
+    "id": 52,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/351/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 173
+    },
+    "color": "White",
+    "quantity": 95
+  },
+  {
+    "id": 53,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/352/400/400",
+    "rating": {
+      "rate": 3.7,
+      "count": 309
+    },
+    "color": "Red",
+    "quantity": 50
+  },
+  {
+    "id": 54,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/353/400/400",
+    "rating": {
+      "rate": 4.9,
+      "count": 198
+    },
+    "color": "Blue",
+    "quantity": 85
+  },
+  {
+    "id": 55,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/354/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 267
+    },
+    "color": "Silver",
+    "quantity": 110
+  },
+  {
+    "id": 56,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/355/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    },
+    "color": "Gold",
+    "quantity": 60
+  },
+  {
+    "id": 57,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/356/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 378
+    },
+    "color": "Green",
+    "quantity": 120
+  },
+  {
+    "id": 58,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/357/400/400",
+    "rating": {
+      "rate": 3.8,
+      "count": 221
+    },
+    "color": "Pink",
+    "quantity": 45
+  },
+  {
+    "id": 59,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/358/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 312
+    },
+    "color": "Gray",
+    "quantity": 100
+  },
+  {
+    "id": 60,
+    "title": "Puma RS-X Sneakers",
+    "price": 109.99,
+    "description": "Bold and chunky retro-inspired sneakers with modern comfort.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/359/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 189
+    },
+    "color": "Navy",
+    "quantity": 80
+  },
+  {
+    "id": 61,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/360/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 456
+    },
+    "color": "Black",
+    "quantity": 40
+  },
+  {
+    "id": 62,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/361/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 203
+    },
+    "color": "White",
+    "quantity": 65
+  },
+  {
+    "id": 63,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/362/400/400",
+    "rating": {
+      "rate": 4.9,
+      "count": 312
+    },
+    "color": "Red",
+    "quantity": 55
+  },
+  {
+    "id": 64,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/363/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 278
+    },
+    "color": "Blue",
+    "quantity": 75
+  },
+  {
+    "id": 65,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/364/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 167
+    },
+    "color": "Silver",
+    "quantity": 30
+  },
+  {
+    "id": 66,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/365/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 398
+    },
+    "color": "Gold",
+    "quantity": 50
+  },
+  {
+    "id": 67,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/366/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 234
+    },
+    "color": "Green",
+    "quantity": 45
+  },
+  {
+    "id": 68,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/367/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 189
+    },
+    "color": "Pink",
+    "quantity": 60
+  },
+  {
+    "id": 69,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/368/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 321
+    },
+    "color": "Gray",
+    "quantity": 70
+  },
+  {
+    "id": 70,
+    "title": "The North Face Denali Fleece Jacket",
+    "price": 129.99,
+    "description": "Warm and durable fleece jacket for outdoor adventures.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/369/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 276
+    },
+    "color": "Navy",
+    "quantity": 35
+  },
+  {
+    "id": 71,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/370/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 198
+    },
+    "color": "Black",
+    "quantity": 90
+  },
+  {
+    "id": 72,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/371/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 312
+    },
+    "color": "White",
+    "quantity": 110
+  },
+  {
+    "id": 73,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/372/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 267
+    },
+    "color": "Red",
+    "quantity": 80
+  },
+  {
+    "id": 74,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/373/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 145
+    },
+    "color": "Blue",
+    "quantity": 100
+  },
+  {
+    "id": 75,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/374/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 389
+    },
+    "color": "Silver",
+    "quantity": 70
+  },
+  {
+    "id": 76,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/375/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 221
+    },
+    "color": "Gold",
+    "quantity": 95
+  },
+  {
+    "id": 77,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/376/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 176
+    },
+    "color": "Green",
+    "quantity": 85
+  },
+  {
+    "id": 78,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/377/400/400",
+    "rating": {
+      "rate": 3.9,
+      "count": 298
+    },
+    "color": "Pink",
+    "quantity": 105
+  },
+  {
+    "id": 79,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/378/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 234
+    },
+    "color": "Gray",
+    "quantity": 75
+  },
+  {
+    "id": 80,
+    "title": "Ralph Lauren Polo Shirt",
+    "price": 79.99,
+    "description": "Iconic cotton polo shirt with signature embroidered logo.",
+    "category": "polo-shirts",
+    "image": "https://picsum.photos/id/379/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 167
+    },
+    "color": "Navy",
+    "quantity": 115
+  },
+  {
+    "id": 81,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/380/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 389
+    },
+    "color": "Black",
+    "quantity": 130
+  },
+  {
+    "id": 82,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/381/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 234
+    },
+    "color": "White",
+    "quantity": 160
+  },
+  {
+    "id": 83,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/382/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 312
+    },
+    "color": "Red",
+    "quantity": 120
+  },
+  {
+    "id": 84,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/383/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 176
+    },
+    "color": "Blue",
+    "quantity": 140
+  },
+  {
+    "id": 85,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/384/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 289
+    },
+    "color": "Silver",
+    "quantity": 150
+  },
+  {
+    "id": 86,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/385/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 198
+    },
+    "color": "Gold",
+    "quantity": 110
+  },
+  {
+    "id": 87,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/386/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 267
+    },
+    "color": "Green",
+    "quantity": 170
+  },
+  {
+    "id": 88,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/387/400/400",
+    "rating": {
+      "rate": 3.9,
+      "count": 145
+    },
+    "color": "Pink",
+    "quantity": 125
+  },
+  {
+    "id": 89,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/388/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 378
+    },
+    "color": "Gray",
+    "quantity": 155
+  },
+  {
+    "id": 90,
+    "title": "Vans Old Skool Sneakers",
+    "price": 64.99,
+    "description": "Classic low-top lace-up skate shoes with signature side stripe.",
+    "category": "sneakers",
+    "image": "https://picsum.photos/id/389/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 221
+    },
+    "color": "Navy",
+    "quantity": 135
+  },
+  {
+    "id": 91,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/390/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 287
+    },
+    "color": "Black",
+    "quantity": 25
+  },
+  {
+    "id": 92,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/391/400/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 156
+    },
+    "color": "White",
+    "quantity": 45
+  },
+  {
+    "id": 93,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/392/400/400",
+    "rating": {
+      "rate": 4.9,
+      "count": 334
+    },
+    "color": "Red",
+    "quantity": 35
+  },
+  {
+    "id": 94,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/393/400/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 198
+    },
+    "color": "Blue",
+    "quantity": 55
+  },
+  {
+    "id": 95,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/394/400/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 245
+    },
+    "color": "Silver",
+    "quantity": 30
+  },
+  {
+    "id": 96,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/395/400/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 312
+    },
+    "color": "Gold",
+    "quantity": 40
+  },
+  {
+    "id": 97,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/396/400/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 189
+    },
+    "color": "Green",
+    "quantity": 50
+  },
+  {
+    "id": 98,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/397/400/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 276
+    },
+    "color": "Pink",
+    "quantity": 20
+  },
+  {
+    "id": 99,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/398/400/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 167
+    },
+    "color": "Gray",
+    "quantity": 60
+  },
+  {
+    "id": 100,
+    "title": "Columbia Sportswear Omni-Heat Jacket",
+    "price": 149.99,
+    "description": "Water-resistant outdoor jacket with reflective heat technology.",
+    "category": "jackets",
+    "image": "https://picsum.photos/id/399/400/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 398
+    },
+    "color": "Navy",
+    "quantity": 38
+  }
+]
