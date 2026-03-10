@@ -25,7 +25,7 @@
       "count": 423
     },
     "color": "Black",
-    "quantity": 85
+    "stock": 85
   },
   {
     "id": 2,
@@ -39,7 +39,7 @@
       "count": 113
     },
     "color": "White",
-    "quantity": 120
+    "stock": 120
   },
   {
     "id": 3,
@@ -53,7 +53,7 @@
       "count": 243
     },
     "color": "Red",
-    "quantity": 65
+    "stock": 65
   },
   {
     "id": 4,
@@ -67,7 +67,7 @@
       "count": 200
     },
     "color": "Blue",
-    "quantity": 95
+    "stock": 95
   },
   {
     "id": 5,
@@ -81,7 +81,7 @@
       "count": 366
     },
     "color": "Silver",
-    "quantity": 110
+    "stock": 110
   },
   {
     "id": 6,
@@ -95,7 +95,7 @@
       "count": 235
     },
     "color": "Gold",
-    "quantity": 75
+    "stock": 75
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
       "count": 410
     },
     "color": "Green",
-    "quantity": 140
+    "stock": 140
   },
   {
     "id": 8,
@@ -123,7 +123,7 @@
       "count": 388
     },
     "color": "Pink",
-    "quantity": 50
+    "stock": 50
   },
   {
     "id": 9,
@@ -137,7 +137,7 @@
       "count": 198
     },
     "color": "Gray",
-    "quantity": 130
+    "stock": 130
   },
   {
     "id": 10,
@@ -151,7 +151,7 @@
       "count": 487
     },
     "color": "Navy",
-    "quantity": 60
+    "stock": 60
   },
   {
     "id": 11,
@@ -165,7 +165,7 @@
       "count": 101
     },
     "color": "Black",
-    "quantity": 45
+    "stock": 45
   },
   {
     "id": 12,
@@ -179,7 +179,7 @@
       "count": 282
     },
     "color": "White",
-    "quantity": 80
+    "stock": 80
   },
   {
     "id": 13,
@@ -193,7 +193,7 @@
       "count": 236
     },
     "color": "Red",
-    "quantity": 100
+    "stock": 100
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
       "count": 231
     },
     "color": "Blue",
-    "quantity": 55
+    "stock": 55
   },
   {
     "id": 15,
@@ -221,7 +221,7 @@
       "count": 186
     },
     "color": "Silver",
-    "quantity": 90
+    "stock": 90
   },
   {
     "id": 16,
@@ -235,7 +235,7 @@
       "count": 399
     },
     "color": "Gold",
-    "quantity": 70
+    "stock": 70
   },
   {
     "id": 17,
@@ -249,7 +249,7 @@
       "count": 361
     },
     "color": "Green",
-    "quantity": 115
+    "stock": 115
   },
   {
     "id": 18,
@@ -263,7 +263,7 @@
       "count": 323
     },
     "color": "Pink",
-    "quantity": 35
+    "stock": 35
   },
   {
     "id": 19,
@@ -277,7 +277,7 @@
       "count": 133
     },
     "color": "Gray",
-    "quantity": 125
+    "stock": 125
   },
   {
     "id": 20,
@@ -291,7 +291,7 @@
       "count": 188
     },
     "color": "Navy",
-    "quantity": 105
+    "stock": 105
   },
   {
     "id": 21,
@@ -305,7 +305,7 @@
       "count": 512
     },
     "color": "Black",
-    "quantity": 60
+    "stock": 60
   },
   {
     "id": 22,
@@ -319,7 +319,7 @@
       "count": 289
     },
     "color": "White",
-    "quantity": 90
+    "stock": 90
   },
   {
     "id": 23,
@@ -333,7 +333,7 @@
       "count": 176
     },
     "color": "Red",
-    "quantity": 40
+    "stock": 40
   },
   {
     "id": 24,
@@ -347,7 +347,7 @@
       "count": 341
     },
     "color": "Blue",
-    "quantity": 110
+    "stock": 110
   },
   {
     "id": 25,
@@ -361,7 +361,7 @@
       "count": 204
     },
     "color": "Silver",
-    "quantity": 75
+    "stock": 75
   },
   {
     "id": 26,
@@ -375,7 +375,7 @@
       "count": 157
     },
     "color": "Gold",
-    "quantity": 55
+    "stock": 55
   },
   {
     "id": 27,
@@ -389,7 +389,7 @@
       "count": 398
     },
     "color": "Green",
-    "quantity": 85
+    "stock": 85
   },
   {
     "id": 28,
@@ -403,7 +403,7 @@
       "count": 267
     },
     "color": "Pink",
-    "quantity": 70
+    "stock": 70
   },
   {
     "id": 29,
@@ -417,7 +417,7 @@
       "count": 312
     },
     "color": "Gray",
-    "quantity": 95
+    "stock": 95
   },
   {
     "id": 30,
@@ -431,7 +431,7 @@
       "count": 445
     },
     "color": "Navy",
-    "quantity": 50
+    "stock": 50
   },
   {
     "id": 31,
@@ -445,7 +445,7 @@
       "count": 278
     },
     "color": "Black",
-    "quantity": 120
+    "stock": 120
   },
   {
     "id": 32,
@@ -459,7 +459,7 @@
       "count": 195
     },
     "color": "White",
-    "quantity": 80
+    "stock": 80
   },
   {
     "id": 33,
@@ -473,7 +473,7 @@
       "count": 367
     },
     "color": "Red",
-    "quantity": 100
+    "stock": 100
   },
   {
     "id": 34,
@@ -487,7 +487,7 @@
       "count": 142
     },
     "color": "Blue",
-    "quantity": 65
+    "stock": 65
   },
   {
     "id": 35,
@@ -501,7 +501,7 @@
       "count": 289
     },
     "color": "Silver",
-    "quantity": 90
+    "stock": 90
   },
   {
     "id": 36,
@@ -515,7 +515,7 @@
       "count": 221
     },
     "color": "Gold",
-    "quantity": 110
+    "stock": 110
   },
   {
     "id": 37,
@@ -529,7 +529,7 @@
       "count": 156
     },
     "color": "Green",
-    "quantity": 75
+    "stock": 75
   },
   {
     "id": 38,
@@ -543,7 +543,7 @@
       "count": 334
     },
     "color": "Pink",
-    "quantity": 95
+    "stock": 95
   },
   {
     "id": 39,
@@ -557,7 +557,7 @@
       "count": 412
     },
     "color": "Gray",
-    "quantity": 55
+    "stock": 55
   },
   {
     "id": 40,
@@ -571,7 +571,7 @@
       "count": 187
     },
     "color": "Navy",
-    "quantity": 85
+    "stock": 85
   },
   {
     "id": 41,
@@ -585,7 +585,7 @@
       "count": 130
     },
     "color": "Black",
-    "quantity": 150
+    "stock": 150
   },
   {
     "id": 42,
@@ -599,7 +599,7 @@
       "count": 419
     },
     "color": "White",
-    "quantity": 200
+    "stock": 200
   },
   {
     "id": 43,
@@ -613,7 +613,7 @@
       "count": 184
     },
     "color": "Red",
-    "quantity": 180
+    "stock": 180
   },
   {
     "id": 44,
@@ -627,7 +627,7 @@
       "count": 440
     },
     "color": "Blue",
-    "quantity": 160
+    "stock": 160
   },
   {
     "id": 45,
@@ -641,7 +641,7 @@
       "count": 104
     },
     "color": "Silver",
-    "quantity": 170
+    "stock": 170
   },
   {
     "id": 46,
@@ -655,7 +655,7 @@
       "count": 202
     },
     "color": "Gold",
-    "quantity": 140
+    "stock": 140
   },
   {
     "id": 47,
@@ -669,7 +669,7 @@
       "count": 309
     },
     "color": "Green",
-    "quantity": 190
+    "stock": 190
   },
   {
     "id": 48,
@@ -683,7 +683,7 @@
       "count": 128
     },
     "color": "Pink",
-    "quantity": 130
+    "stock": 130
   },
   {
     "id": 49,
@@ -697,7 +697,7 @@
       "count": 132
     },
     "color": "Gray",
-    "quantity": 210
+    "stock": 210
   },
   {
     "id": 50,
@@ -711,7 +711,7 @@
       "count": 448
     },
     "color": "Navy",
-    "quantity": 155
+    "stock": 155
   },
   {
     "id": 51,
@@ -725,7 +725,7 @@
       "count": 256
     },
     "color": "Black",
-    "quantity": 70
+    "stock": 70
   },
   {
     "id": 52,
@@ -739,7 +739,7 @@
       "count": 173
     },
     "color": "White",
-    "quantity": 95
+    "stock": 95
   },
   {
     "id": 53,
@@ -753,7 +753,7 @@
       "count": 309
     },
     "color": "Red",
-    "quantity": 50
+    "stock": 50
   },
   {
     "id": 54,
@@ -767,7 +767,7 @@
       "count": 198
     },
     "color": "Blue",
-    "quantity": 85
+    "stock": 85
   },
   {
     "id": 55,
@@ -781,7 +781,7 @@
       "count": 267
     },
     "color": "Silver",
-    "quantity": 110
+    "stock": 110
   },
   {
     "id": 56,
@@ -795,7 +795,7 @@
       "count": 145
     },
     "color": "Gold",
-    "quantity": 60
+    "stock": 60
   },
   {
     "id": 57,
@@ -809,7 +809,7 @@
       "count": 378
     },
     "color": "Green",
-    "quantity": 120
+    "stock": 120
   },
   {
     "id": 58,
@@ -823,7 +823,7 @@
       "count": 221
     },
     "color": "Pink",
-    "quantity": 45
+    "stock": 45
   },
   {
     "id": 59,
@@ -837,7 +837,7 @@
       "count": 312
     },
     "color": "Gray",
-    "quantity": 100
+    "stock": 100
   },
   {
     "id": 60,
@@ -851,7 +851,7 @@
       "count": 189
     },
     "color": "Navy",
-    "quantity": 80
+    "stock": 80
   },
   {
     "id": 61,
@@ -865,7 +865,7 @@
       "count": 456
     },
     "color": "Black",
-    "quantity": 40
+    "stock": 40
   },
   {
     "id": 62,
@@ -879,7 +879,7 @@
       "count": 203
     },
     "color": "White",
-    "quantity": 65
+    "stock": 65
   },
   {
     "id": 63,
@@ -893,7 +893,7 @@
       "count": 312
     },
     "color": "Red",
-    "quantity": 55
+    "stock": 55
   },
   {
     "id": 64,
@@ -907,7 +907,7 @@
       "count": 278
     },
     "color": "Blue",
-    "quantity": 75
+    "stock": 75
   },
   {
     "id": 65,
@@ -921,7 +921,7 @@
       "count": 167
     },
     "color": "Silver",
-    "quantity": 30
+    "stock": 30
   },
   {
     "id": 66,
@@ -935,7 +935,7 @@
       "count": 398
     },
     "color": "Gold",
-    "quantity": 50
+    "stock": 50
   },
   {
     "id": 67,
@@ -949,7 +949,7 @@
       "count": 234
     },
     "color": "Green",
-    "quantity": 45
+    "stock": 45
   },
   {
     "id": 68,
@@ -963,7 +963,7 @@
       "count": 189
     },
     "color": "Pink",
-    "quantity": 60
+    "stock": 60
   },
   {
     "id": 69,
@@ -977,7 +977,7 @@
       "count": 321
     },
     "color": "Gray",
-    "quantity": 70
+    "stock": 70
   },
   {
     "id": 70,
@@ -991,7 +991,7 @@
       "count": 276
     },
     "color": "Navy",
-    "quantity": 35
+    "stock": 35
   },
   {
     "id": 71,
@@ -1005,7 +1005,7 @@
       "count": 198
     },
     "color": "Black",
-    "quantity": 90
+    "stock": 90
   },
   {
     "id": 72,
@@ -1019,7 +1019,7 @@
       "count": 312
     },
     "color": "White",
-    "quantity": 110
+    "stock": 110
   },
   {
     "id": 73,
@@ -1033,7 +1033,7 @@
       "count": 267
     },
     "color": "Red",
-    "quantity": 80
+    "stock": 80
   },
   {
     "id": 74,
@@ -1047,7 +1047,7 @@
       "count": 145
     },
     "color": "Blue",
-    "quantity": 100
+    "stock": 100
   },
   {
     "id": 75,
@@ -1061,7 +1061,7 @@
       "count": 389
     },
     "color": "Silver",
-    "quantity": 70
+    "stock": 70
   },
   {
     "id": 76,
@@ -1075,7 +1075,7 @@
       "count": 221
     },
     "color": "Gold",
-    "quantity": 95
+    "stock": 95
   },
   {
     "id": 77,
@@ -1089,7 +1089,7 @@
       "count": 176
     },
     "color": "Green",
-    "quantity": 85
+    "stock": 85
   },
   {
     "id": 78,
@@ -1103,7 +1103,7 @@
       "count": 298
     },
     "color": "Pink",
-    "quantity": 105
+    "stock": 105
   },
   {
     "id": 79,
@@ -1117,7 +1117,7 @@
       "count": 234
     },
     "color": "Gray",
-    "quantity": 75
+    "stock": 75
   },
   {
     "id": 80,
@@ -1131,7 +1131,7 @@
       "count": 167
     },
     "color": "Navy",
-    "quantity": 115
+    "stock": 115
   },
   {
     "id": 81,
@@ -1145,7 +1145,7 @@
       "count": 389
     },
     "color": "Black",
-    "quantity": 130
+    "stock": 130
   },
   {
     "id": 82,
@@ -1159,7 +1159,7 @@
       "count": 234
     },
     "color": "White",
-    "quantity": 160
+    "stock": 160
   },
   {
     "id": 83,
@@ -1173,7 +1173,7 @@
       "count": 312
     },
     "color": "Red",
-    "quantity": 120
+    "stock": 120
   },
   {
     "id": 84,
@@ -1187,7 +1187,7 @@
       "count": 176
     },
     "color": "Blue",
-    "quantity": 140
+    "stock": 140
   },
   {
     "id": 85,
@@ -1201,7 +1201,7 @@
       "count": 289
     },
     "color": "Silver",
-    "quantity": 150
+    "stock": 150
   },
   {
     "id": 86,
@@ -1215,7 +1215,7 @@
       "count": 198
     },
     "color": "Gold",
-    "quantity": 110
+    "stock": 110
   },
   {
     "id": 87,
@@ -1229,7 +1229,7 @@
       "count": 267
     },
     "color": "Green",
-    "quantity": 170
+    "stock": 170
   },
   {
     "id": 88,
@@ -1243,7 +1243,7 @@
       "count": 145
     },
     "color": "Pink",
-    "quantity": 125
+    "stock": 125
   },
   {
     "id": 89,
@@ -1257,7 +1257,7 @@
       "count": 378
     },
     "color": "Gray",
-    "quantity": 155
+    "stock": 155
   },
   {
     "id": 90,
@@ -1271,7 +1271,7 @@
       "count": 221
     },
     "color": "Navy",
-    "quantity": 135
+    "stock": 135
   },
   {
     "id": 91,
@@ -1285,7 +1285,7 @@
       "count": 287
     },
     "color": "Black",
-    "quantity": 25
+    "stock": 25
   },
   {
     "id": 92,
@@ -1299,7 +1299,7 @@
       "count": 156
     },
     "color": "White",
-    "quantity": 45
+    "stock": 45
   },
   {
     "id": 93,
@@ -1313,7 +1313,7 @@
       "count": 334
     },
     "color": "Red",
-    "quantity": 35
+    "stock": 35
   },
   {
     "id": 94,
@@ -1327,7 +1327,7 @@
       "count": 198
     },
     "color": "Blue",
-    "quantity": 55
+    "stock": 55
   },
   {
     "id": 95,
@@ -1341,7 +1341,7 @@
       "count": 245
     },
     "color": "Silver",
-    "quantity": 30
+    "stock": 30
   },
   {
     "id": 96,
@@ -1355,7 +1355,7 @@
       "count": 312
     },
     "color": "Gold",
-    "quantity": 40
+    "stock": 40
   },
   {
     "id": 97,
@@ -1369,7 +1369,7 @@
       "count": 189
     },
     "color": "Green",
-    "quantity": 50
+    "stock": 50
   },
   {
     "id": 98,
@@ -1383,7 +1383,7 @@
       "count": 276
     },
     "color": "Pink",
-    "quantity": 20
+    "stock": 20
   },
   {
     "id": 99,
@@ -1397,7 +1397,7 @@
       "count": 167
     },
     "color": "Gray",
-    "quantity": 60
+    "stock": 60
   },
   {
     "id": 100,
@@ -1411,7 +1411,7 @@
       "count": 398
     },
     "color": "Navy",
-    "quantity": 38
+    "stock": 38
   }
 ]
 }
